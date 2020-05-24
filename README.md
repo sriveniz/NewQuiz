@@ -1,4 +1,4 @@
-### Call for Code 2020 - Quiz App Starter Kit
+### New Quiz - Quiz App Starter Kit
 
 This is a very simple example quiz application that uses a Loopback generated express app with a react frontend.
 
